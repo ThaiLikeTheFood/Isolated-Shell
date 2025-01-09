@@ -1,4 +1,4 @@
-## Isolate users into pre-limenary shell that allows them their own seperate bubble to interact with and perform their own data queries and management without fear of them deleting personal or pre-existing data!
+## Isolate users into an isolated shell that allows them their own seperate (and safe) bubble to interact with and perform their own data queries and management without fear of them deleting personal or pre-existing data!
 
 ## When the program is executed you can type the following commands to interact with the simulated file system:
 
